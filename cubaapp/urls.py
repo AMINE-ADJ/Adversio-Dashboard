@@ -6,7 +6,7 @@ from . import views
 urlpatterns = [
 
 #-------------------------General(Dashboards,Widgets & Layout)---------------------------------------
-path('', views.index, name="index"),
+path('', views.dashboard_02, name="dashboard_02"),
 path('index', views.index, name="index"),
 path('dashboard_02', views.dashboard_02, name="dashboard_02"),
 path('online_course', views.online_course, name="online_course"),
