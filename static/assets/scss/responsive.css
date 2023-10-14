@@ -596,7 +596,7 @@
     clear: both; }
   .chat-menu {
     right: 0;
-    border-top: 1px solid #efefef;
+    border-top: 1px solid #fafafa;
     opacity: 0;
     transform: translateY(-30px);
     visibility: hidden;

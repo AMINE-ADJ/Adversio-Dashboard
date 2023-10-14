@@ -389,6 +389,8 @@
 }
 * {
   box-sizing: border-box;
+  color: #000;
+  
   &:after, &:before {
     box-sizing: border-box;
   }

@@ -173,8 +173,8 @@ chart.render();
 
 // profit monthly
 var optionsprofit = {
-    labels: ['Shoes', 'Grocery', 'other'],
-    series: [30, 55, 35],
+    labels: ['collecte des bouchons', 'des dons'],
+    series: [30, 55],
     chart: {
       type: 'donut',
       height: 300,
@@ -215,11 +215,11 @@ var optionsprofit = {
               },
               total: {
                 show: true,
-                fontSize: '20px',
+                fontSize: '14px',
                 fontFamily: 'Rubik, sans-serif',
                 fontWeight: 500,
                 label: '$ 34,098',
-                formatter: () => 'Total Profit'
+                formatter: () => 'Bénéfice total'
               }
             },
         }
@@ -243,7 +243,7 @@ var optionsprofit = {
           }
       },
     },
-    colors: ["#54BA4A", "var(--theme-deafult)", "#FFA941"],
+    colors: ["#54BA4A", "var(--theme-deafult)"],
   responsive: [{
     breakpoint: 1630,
     options: {
@@ -301,17 +301,12 @@ chartprofit.render();
 // overview chart
 var optionsoverview = {
     series: [ {
-    name: 'Earning',
+    name: 'Benévole',
     type: 'area',
     data: [44, 55, 35, 50, 67, 50, 55, 45, 32, 38, 45]
   }, 
   {
-    name: 'Order',
-    type: 'area',
-    data: [35, 30, 23, 40, 50, 35, 40, 52, 67, 50, 55]
-  },
-  {
-    name: 'Refunds',
+    name: 'Collecteurs',
     type: 'area',
     data: [25, 20, 15, 25, 32, 20, 30, 35, 23, 30, 20]
   },
@@ -358,7 +353,7 @@ var optionsoverview = {
       columnWidth: '50%'
     }
   },
-  colors: ["#7064F5", "#54BA4A", "#FF3364"],
+  colors: ["#7064F5", "#54BA4A"],
   fill: {
     type: 'gradient',
     gradient: {

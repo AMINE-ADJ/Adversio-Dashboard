@@ -462,7 +462,7 @@
     padding: 5px 0;
     height: 28px;
     float: left;
-    background-color: #e8e6ff;
+    background-color: #a7e0dc;
     margin: 1px;
     text-align: center; }
     .br-theme-bars-1to10 .br-widget a.br-active, .br-theme-bars-1to10 .br-widget a.br-selected {
@@ -478,10 +478,10 @@
 .br-theme-bars-1to10 .br-readonly a {
   cursor: default; }
   .br-theme-bars-1to10 .br-readonly a.br-active, .br-theme-bars-1to10 .br-readonly a.br-selected {
-    background-color: #a299ff; }
+    background-color: #6fcbc6; }
 
 .br-theme-bars-1to10 .br-readonly .br-current-rating {
-  color: #a299ff; }
+  color: #6fcbc6; }
 
 @media print {
   .br-theme-bars-1to10 .br-widget a {
@@ -504,7 +504,7 @@
     display: block;
     width: 120px;
     height: 5px;
-    background-color: #e8e6ff;
+    background-color: #a7e0dc;
     margin: 1px; }
     .br-theme-bars-horizontal .br-widget a.br-active, .br-theme-bars-horizontal .br-widget a.br-selected {
       background-color: var(--theme-deafult); }
@@ -519,10 +519,10 @@
 .br-theme-bars-horizontal .br-readonly a {
   cursor: default; }
   .br-theme-bars-horizontal .br-readonly a.br-active, .br-theme-bars-horizontal .br-readonly a.br-selected {
-    background-color: #a299ff; }
+    background-color: #6fcbc6; }
 
 .br-theme-bars-horizontal .br-readonly .br-current-rating {
-  color: #a299ff; }
+  color: #6fcbc6; }
 
 @media print {
   .br-theme-bars-horizontal .br-widget a {
@@ -545,7 +545,7 @@
     width: 60px;
     height: 8px;
     float: left;
-    background-color: #e8e6ff;
+    background-color: #a7e0dc;
     margin: 1px; }
     .br-theme-bars-movie .br-widget a.br-active, .br-theme-bars-movie .br-widget a.br-selected {
       background-color: var(--theme-deafult); }
@@ -562,10 +562,10 @@
 .br-theme-bars-movie .br-readonly a {
   cursor: default; }
   .br-theme-bars-movie .br-readonly a.br-active, .br-theme-bars-movie .br-readonly a.br-selected {
-    background-color: #a299ff; }
+    background-color: #6fcbc6; }
 
 .br-theme-bars-movie .br-readonly .br-current-rating {
-  color: #a299ff; }
+  color: #6fcbc6; }
 
 @media print {
   .br-theme-bars-movie .br-widget a {
@@ -584,7 +584,7 @@
   white-space: nowrap; }
   .br-theme-bars-pill .br-widget a {
     padding: 7px 15px;
-    background-color: #e8e6ff;
+    background-color: #a7e0dc;
     color: var(--theme-deafult);
     text-decoration: none;
     font-size: 13px;
@@ -612,7 +612,7 @@
 .br-theme-bars-pill .br-readonly a {
   cursor: default; }
   .br-theme-bars-pill .br-readonly a.br-active, .br-theme-bars-pill .br-readonly a.br-selected {
-    background-color: #a299ff; }
+    background-color: #6fcbc6; }
 
 @media print {
   .br-theme-bars-pill .br-widget a {
@@ -638,7 +638,7 @@
     width: 22px;
     height: 22px;
     float: left;
-    background-color: #e8e6ff;
+    background-color: #a7e0dc;
     margin: 1px;
     font-size: 15px;
     font-weight: 400;
@@ -659,10 +659,10 @@
 .br-theme-bars-reversed .br-readonly a {
   cursor: default; }
   .br-theme-bars-reversed .br-readonly a.br-active, .br-theme-bars-reversed .br-readonly a.br-selected {
-    background-color: #a299ff; }
+    background-color: #6fcbc6; }
 
 .br-theme-bars-reversed .br-readonly .br-current-rating {
-  color: #a299ff; }
+  color: #6fcbc6; }
 
 @media print {
   .br-theme-bars-reversed .br-widget a {
@@ -685,14 +685,14 @@
     width: 30px;
     height: 30px;
     float: left;
-    border: 2px solid #d0ccff;
+    border: 2px solid #94d9d5;
     background-color: white;
     margin: 2px;
     text-decoration: none;
     font-size: 14px;
     line-height: 1.8;
     text-align: center;
-    color: #d0ccff;
+    color: #94d9d5;
     font-weight: 600; }
     .br-theme-bars-square .br-widget a.br-active, .br-theme-bars-square .br-widget a.br-selected {
       border: 2px solid var(--theme-deafult);
@@ -710,7 +710,7 @@
   cursor: default; }
   .br-theme-bars-square .br-readonly a.br-active, .br-theme-bars-square .br-readonly a.br-selected {
     border: 2px solid var(--theme-deafult);
-    color: #a299ff; }
+    color: #6fcbc6; }
 
 @media print {
   .br-theme-bars-square .br-widget a {

@@ -131,7 +131,7 @@
       left: 6px;
       right: 6px;
       height: 6px;
-      background: #54BA4A;
+      background: #49beb7;
       display: none; }
       .dropzone .dz-preview .dz-progress .dz-upload {
         position: absolute;
@@ -193,7 +193,7 @@
     -ms-filter: none;
     filter: none; }
   .dropzone .dz-preview.dz-error .dz-progress .dz-upload {
-    background: #54BA4A; }
+    background: #49beb7; }
   .dropzone .dz-preview.dz-success .dz-success-mark {
     display: block;
     opacity: 1;
@@ -335,7 +335,7 @@
       left: 6px;
       right: 6px;
       height: 6px;
-      background: #54BA4A;
+      background: #49beb7;
       display: none; }
       .dropzone-previews .dz-preview .dz-progress .dz-upload {
         position: absolute;
@@ -468,7 +468,7 @@
   -webkit-border-image: none;
   -o-border-image: none;
   border-image: none;
-  background: rgba(115, 102, 255, 0.1);
+  background: rgba(73, 190, 183, 0.1);
   box-sizing: border-box;
   min-height: 150px;
   position: relative; }
@@ -493,14 +493,14 @@
     .dropzone .dz-preview .dz-progress {
       display: block;
       height: 10px;
-      border: 1px solid #54BA4A;
+      border: 1px solid #49beb7;
       left: 12px;
       right: 12px; }
       .dropzone .dz-preview .dz-progress .dz-upload {
         display: block;
         height: 100%;
         width: 0;
-        background: #54BA4A; }
+        background: #49beb7; }
     .dropzone .dz-preview .dz-error-message {
       color: red;
       display: none;
